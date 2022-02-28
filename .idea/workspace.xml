@@ -9,6 +9,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="AndroidDevice-API-30-5.6inch" />
   <component name="ProjectId" id="25dotQZnInDGf5XSGXOFTjz9ul5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -50,5 +51,9 @@
       <screen x="0" y="25" width="1792" height="1010" />
     </state>
     <state width="1253" height="336" key="GridCell.Tab.1.right/0.25.1792.1010@0.25.1792.1010" timestamp="1645866556140" />
+    <state x="606" y="248" width="670" height="676" key="search.everywhere.popup" timestamp="1646030217349">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state x="606" y="248" width="670" height="676" key="search.everywhere.popup/0.25.1792.1010@0.25.1792.1010" timestamp="1646030217349" />
   </component>
 </project>
